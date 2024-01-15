@@ -8,7 +8,9 @@ Introducing Chat Connect, a cutting-edge chatting app designed to revolutionize 
 
 
 
-The news screen that shows the latest news :
+The news screen that shows the latest news 
+
+
 https://github.com/arshpreetsiingh/Chatting_App/assets/156585070/843b096f-5868-437e-8f33-e6a633c0b6b3
 
 
